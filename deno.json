@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true
+  },
+  "tasks": {
+    "start": "deno run --allow-read lexer.ts",
+    "test": "deno test"
+  }
+}
+
